@@ -1,7 +1,7 @@
 # EchoPages
 This is a blogging website similar to medium
 
-##TechStack
+## TechStack
 Hono
 Postgres
 Prisma
